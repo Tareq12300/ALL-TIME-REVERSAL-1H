@@ -1,4 +1,6 @@
+python-telegram-bot==21.6
 requests
-ccxt
-flask
 pytz
+flask
+pandas
+numpy
